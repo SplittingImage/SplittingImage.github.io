@@ -1,0 +1,33 @@
+body {
+  background-image: url(stripes.png), url(background.jpg);
+  background-position: left top;
+  background-repeat: repeat-x, no-repeat;
+  background-attachment: fixed;
+  background-size: 35%, Cover;
+  text-align: left;
+  padding-left: 100px;
+  padding-top: 400px;
+  }
+
+h1 {
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  font-weight: 200;
+  font-size: 20pt;
+  
+}
+
+hr {
+  border: 0;
+  color: #fd6e6e;
+  background-color: #fd6e6e;
+  height: 2px;
+  width: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 0px;
+}
+
+a {
+  text-decoration: none;
+}
