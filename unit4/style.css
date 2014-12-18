@@ -5,7 +5,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   position: relative;
-  opacity: 1.0;
+  opacity: 0.9;
   text-align: center; 
   margin-left: auto;      
   margin-right: auto;
@@ -29,7 +29,7 @@ h1 {
   border-color: #ffffff;
   border-width: large;
   background-color: #ffffff;
-  opacity: 0.4;  
+  opacity: 0.8;  
 }
 
 p {
@@ -45,7 +45,7 @@ p {
   border-color: #ffffff;
   border-width: large;
   background-color: #ffffff;
-  opacity: 0.4;
+  opacity: 0.8;
 }
 
  
