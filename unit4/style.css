@@ -11,6 +11,10 @@ body {
   margin-right: auto;
  }
 
+b { 
+	font-weight: bold;
+}
+
 div img {
   width: 36%;
   max-height: 36%;
