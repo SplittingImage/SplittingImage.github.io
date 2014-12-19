@@ -11,8 +11,12 @@ body {
   margin-right: auto;
  }
 
-b { 
+b {
 	font-weight: bold;
+}
+
+.bold {
+	text-transform: uppercase;
 }
 
 div img {
