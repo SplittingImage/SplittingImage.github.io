@@ -1,4 +1,5 @@
 body {
+  font-family: Aspergit, sans-serif;
   background: url('background01.png');
   background-position: left top;
   background-repeat: no-repeat;
@@ -11,33 +12,24 @@ body {
   margin-right: auto;
  }
 
-b {
-	font-weight: bold;
-}
-
-.bold {
-	text-transform: uppercase;
-}
-
 div img {
-  width: 36%;
-  max-height: 36%;
+  width: 32%;
+  height: 32%;
 }
 
 h1 {
   color: #776767;
-  text-transform: lowercase;
-  font-family: Aspergit, sans-serif;
-  font-size: 55pt;
-  font-weight: medium;
+  text-transform: inherit;
+  font-size: 70px;
+  font-weight: 600;
   text-align: center;
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   border-style: solid;
   border-color: #ffffff;
-  border-width: large;
+  border-width: 40px;
   background-color: #ffffff;
-  opacity: 0.4;
+  opacity: 0.6;
   margin-left: 30px;
   margin-right: 30px;  
 }
@@ -45,17 +37,16 @@ h1 {
 p {
   color: #776767;
   text-transform: lowercase;
-  font-family: Aspergit, sans-serif;
-  font-size: 55pt;
-  font-weight: medium;
+  font-size: 90px;
+  font-weight: 300;
   text-align: center;
   padding-top: 200px;
   padding-bottom: 200px;
   border-style: solid;
   border-color: #ffffff;
-  border-width: large;
+  border-width: 40px;
   background-color: #ffffff;
-  opacity: 0.4;
+  opacity: 0.6;
   margin-left: 30px;
   margin-right: 30px;
 }
