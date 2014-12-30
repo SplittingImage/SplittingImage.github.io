@@ -8,8 +8,7 @@ body {
   position: relative;
   opacity: 1.0;
   text-align: center; 
-  margin-left: auto;      
-  margin-right: auto;
+  margin: auto;
  }
 
 div img {
@@ -23,15 +22,11 @@ h1 {
   font-size: 70px;
   font-weight: 600;
   text-align: center;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  border-style: solid;
-  border-color: #ffffff;
-  border-width: 40px;
+  padding: 60px;
+  border: 40px #ffffff solid;
   background-color: #ffffff;
   opacity: 0.6;
-  margin-left: 30px;
-  margin-right: 30px;  
+  margin: 30px;  
 }
 
 p {
@@ -40,15 +35,11 @@ p {
   font-size: 90px;
   font-weight: 300;
   text-align: center;
-  padding-top: 200px;
-  padding-bottom: 200px;
-  border-style: solid;
-  border-color: #ffffff;
-  border-width: 40px;
+  padding: 200px;
+  border: 40px #ffffff solid;
   background-color: #ffffff;
   opacity: 0.6;
-  margin-left: 30px;
-  margin-right: 30px;
+  margin: 30px;
 }
 
  
