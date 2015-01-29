@@ -1,0 +1,120 @@
+body {
+  font-family: Lato, sans-serif;
+  font-size: 20pt;
+  line-height: 1;
+  color: white;
+  background-image: url("background03.jpg");
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+  text-align: center; 
+  margin: auto;
+ }
+
+header {
+  background-color: rgba(0,0,0,0.5);
+  text-align: center;
+  height: 130px;
+  padding: 1px;
+}
+
+header img {
+  max-height: 290px;
+  max-width: 290px;
+  padding-top: 2px; 
+}
+
+nav {
+  padding: 5px;
+  width: 100%;
+  letter-spacing: 15px;
+}
+
+nav a {
+	padding: 8px;	
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF704D;
+}
+
+section {
+  width: 100%;
+  margin: 10px;
+}
+
+#wrap {
+  width: ;
+}
+
+.left {
+  width: 45%;
+  background-color: #000000;
+  opacity: 0.7;
+  padding: 1%;
+  float: left;
+  margin: 9px;
+}
+
+.right {
+  width: 45%;
+  background-color: #000000;
+  opacity: 0.7;
+  padding: 1%;
+  float: right;
+  margin: 9px;
+}
+
+.clearfix1 {
+	clear: both;
+	display: block;
+}
+
+.clearfix2 {
+	clear: both;
+	display: block;
+}
+
+footer {
+	position: relative;
+	top: 85%;
+	bottom: ;
+	padding: 3%;
+}
+
+footer img {
+  max-width: 6%;
+  padding: 3%; 
+}
+
+@media only screen and (max-width: 600px) {
+nav {
+	float: none;
+	width: auto;
+	font-size: 0.9em;
+	padding: 0.2em;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+.left, .right {
+	float: none;
+	width: 91%;
+	font-size: 0.8em;
+	}
+}
+@media only screen and (max-width: 500px) {
+header {
+	height: 3em;
+	}
+header img {
+	height: 3em;
+	}
+}
